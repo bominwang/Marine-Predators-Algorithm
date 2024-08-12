@@ -6,7 +6,6 @@ This Python implementation of the Marine Predators Algorithm (MPA) is designed t
 optimization problems. The algorithm is inspired by the strategies of marine predators in nature, focusing on the balance
 between exploration and exploitation phases to effectively search the solution space.
 
-References: ------------------------------------------------ 
 The Marine Predators Algorithm is based on the following research: Faramarzi A, Heidarinejad M, Mirjalili S, et al. Marine Predators Algorithm:
 A nature-inspired metaheuristic[J]. Expert systems with applications, 2020, 152: 113377.
 
